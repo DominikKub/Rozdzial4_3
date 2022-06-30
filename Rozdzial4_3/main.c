@@ -10,6 +10,9 @@
 int main(int argc, const char * argv[]) {
     // insert code here...
     printf("Hello, World!\n");
+    int wiek;
+    scanf("%d",&wiek);
+    printf("%d",wiek);
     return 0;
     
     
